@@ -1,3 +1,4 @@
+pub mod abs;
 pub mod abs_max;
 pub mod abs_min;
 
