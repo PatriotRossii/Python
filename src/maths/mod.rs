@@ -3,6 +3,7 @@ pub mod abs_max;
 pub mod abs_min;
 
 pub mod average_mean;
+pub mod average_median;
 
 pub mod area;
 pub mod area_under_curve;
